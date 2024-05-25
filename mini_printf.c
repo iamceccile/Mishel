@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdarg.h>
-#include "../include/imports.h"
+#include "imports.h"
 
 void switch_args(char format, va_list args)
 {

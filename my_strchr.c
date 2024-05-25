@@ -6,7 +6,7 @@
 */
 
 #include <stdio.h>
-#include "../include/imports.h"
+#include "imports.h"
 
 char *my_strchr(const char *str, int c)
 {

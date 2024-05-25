@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <sys/wait.h>
-#include "../include/imports.h"
+#include "imports.h"
 extern char **environ;
 
 static char **split_commands(char *buffer, const char *delimiter)

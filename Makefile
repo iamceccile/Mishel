@@ -8,21 +8,21 @@
 NAME := mysh
 
 SRC :=main.c\
-	lib/my_putstr.c\
-	lib/my_putchar.c\
-	lib/my_strtwa.c\
-	lib/my_strlen.c\
-	lib/my_put_nbr.c\
-	lib/mini_printf.c\
-	lib/my_strcmp.c\
-	lib/my_strchr.c\
-	lib/my_strcpy.c\
-	lib/my_strcat.c\
-	lib/my_strdup.c\
-	src/check_command.c\
-	src/command.c\
-	src/pipes.c\
-	src/pipe_advenced.c
+	my_putstr.c\
+	my_putchar.c\
+	my_strtwa.c\
+	my_strlen.c\
+	my_put_nbr.c\
+	mini_printf.c\
+	my_strcmp.c\
+	my_strchr.c\
+	my_strcpy.c\
+	my_strcat.c\
+	my_strdup.c\
+	check_command.c\
+	command.c\
+	pipes.c\
+	pipe_advenced.c
 
 OBJ := $(SRC:.c=.o)
 

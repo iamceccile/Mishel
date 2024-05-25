@@ -5,7 +5,7 @@
 ** my_put_nbr
 */
 
-#include "../include/imports.h"
+#include "imports.h"
 
 void my_maximum(void)
 {

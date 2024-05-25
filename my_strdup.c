@@ -5,7 +5,7 @@
 ** Day08
 */
 #include <stdlib.h>
-#include "../include/imports.h"
+#include "imports.h"
 
 char *my_strdup(char const *src)
 {

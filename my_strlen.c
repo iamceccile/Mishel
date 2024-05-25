@@ -5,7 +5,7 @@
 ** task03
 */
 
-#include "../include/imports.h"
+#include "imports.h"
 
 int my_strlen(char const *str)
 {

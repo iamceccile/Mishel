@@ -6,7 +6,7 @@
 */
 
 #include <unistd.h>
-#include "../include/imports.h"
+#include "imports.h"
 
 void my_putchar(char c)
 {

@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "../include/imports.h"
+#include "imports.h"
 
 char **transform(char **saved, char *string, int i, int k)
 {

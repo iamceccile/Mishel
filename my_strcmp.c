@@ -6,7 +6,7 @@
 */
 
 #include <stdio.h>
-#include "../include/imports.h"
+#include "imports.h"
 
 int my_strcmp(const char *s1, const char *s2)
 {

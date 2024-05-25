@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <sys/wait.h>
-#include "../include/imports.h"
+#include "imports.h"
 
 void check_command3(char *buffer, int count)
 {

@@ -6,7 +6,7 @@
 */
 
 #include <stdio.h>
-#include "../include/imports.h"
+#include "imports.h"
 
 char *my_strcat(char *dest, char const *src)
 {
